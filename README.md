@@ -15,10 +15,6 @@
 im really bored nowadays...
 ---
 
-### 😎 JOIN OUR SERVER
-
-[![Ethiopia 🌏](https://img.shields.io/discord/1380783720654442546?label=Join%20Discord&logo=discord&style=for-the-badge)](https://discord.gg/f8c5uH3JJ7)
-
 ### 🟢 Discord Live Status
 
 <p align="center">
