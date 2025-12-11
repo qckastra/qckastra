@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0BFF00&center=true&vCenter=true&width=435&lines=ＳＯＵＭＥＳＷＡＲ+神" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0BFF00&center=true&vCenter=true&width=435&lines=Fang+神" alt="Typing SVG">
 </h1>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ### 👁️ About Me
 
-**ＳＯＵＭＥＳＷＡＲ 神**
+**Fang 神**
 
 im really bored nowadays...
 ---
@@ -26,19 +26,19 @@ im really bored nowadays...
 ### 📊 GitHub Intelligence
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumeswar&show_icons=true&theme=radical" width="450" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=soumeswar&theme=radical" width="450" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=fang420&show_icons=true&theme=radical" width="450" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=fang420&theme=radical" width="450" alt="GitHub Streak">
 </p>
 
 ---
 
 ### 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Terminal_Green?style=for-the-badge&logo=github&logoColor=00FF00&color=111111)](https://github.com/soumeswar)  
-[![Discord](https://img.shields.io/badge/Discord-ＳＯＵＭＥＳＷＡＲ%20神%231000-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1245783823581577358)
+[![GitHub](https://img.shields.io/badge/GitHub-Terminal_Green?style=for-the-badge&logo=github&logoColor=00FF00&color=111111)](https://github.com/fang420)  
+[![Discord](https://img.shields.io/badge/Discord-Fang%20神%231000-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1245783823581577358)
 
 ---
 
 > 🧠 “If bugs exist in the light, opt for the dark.”  
 > ~ a fool man  
-> © 2025 ＳＯＵＭＥＳＷＡＲ 神 — All rights reserved.
+> © 2025 Fang 神 — All rights reserved.
