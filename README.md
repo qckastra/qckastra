@@ -19,8 +19,8 @@
 > LOCATION:     Shadows of the Network
 > CLEARANCE:    LEVEL_RED_OMNIPOTENT
 > ARCHITECTURE: Arch Linux / Neovim / ARM64
-
-🛠 WEAPONIZED_TOOLKIT
+```
+## 🛠 WEAPONIZED_TOOLKIT
 <div align="center">
 <img src="https://img.shields.io/badge/Rust-000000%3Fstyle%3Dfor-the-badge%26logo%3Drust%26logoColor%3Dwhite" />
 <img src="https://img.shields.io/badge/C-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite" />
@@ -36,7 +36,8 @@
 <img src="https://img.shields.io/badge/Android_Security-3DDC84%3Fstyle%3Dflat-square%26logo%3Dandroid%26logoColor%3Dwhite" />
 <img src="https://img.shields.io/badge/Kernel_Exploitation-000000%3Fstyle%3Dflat-square%26logo%3Dlinux%26logoColor%3Dwhite" />
 </div>
-📊 NEURAL_LINK_TELEMETRY
+
+## 📊 NEURAL_LINK_TELEMETRY
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api%3Fusername%3Dfang420%26show_icons%3Dtrue%26theme%3Dchartreuse-dark%26hide_border%3Dtrue%26icon_color%3D00FF00%26title_color%3D00FF00%26text_color%3D00FF00%26bg_color%3D0D1117" width="48%">
 <img src="https://github-readme-streak-stats.herokuapp.com%3Fuser%3Dfang420%26theme%3Dchartreuse-dark%26hide_border%3Dtrue%26background%3D0D1117%26ring%3D00FF00%26fire%3D00FF00" width="48%">
@@ -46,7 +47,8 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats%3Fusername%3Dfang420%26theme%3Dgithub_dark" width="32%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time%3Fusername%3Dfang420%26theme%3Dgithub_dark" width="32%">
 </p>
-⚡ ACTIVE_PAYLOAD_DIRECTORIES
+
+## ⚡ ACTIVE_PAYLOAD_DIRECTORIES
 root@fang420:~# tree ./projects/ -L 2
 ./projects/
 ├── 💀 EXPLOITS
@@ -61,56 +63,12 @@ root@fang420:~# tree ./projects/ -L 2
     ├── FangOS                  # From scratch bare-metal kernel
     └── rust_autoclicker        # High-performance event injection
 
-📡 CURRENT_SYSTEM_RESOURCES
+## 📡 CURRENT_SYSTEM_RESOURCES
   CPU [████████████████████] 100% (Reverse Engineering)
   MEM [████████████░░░░░░░░] 60%  (Caffeine Injected)
   SLP [░░░░░░░░░░░░░░░░░░░░] 0%   (Hunting Bugs)
 
-💬 ENCRYPTED_SIGNATURE
-> "The light is a lie. If you want the truth, look at the instructions executed in the dark."
-> — Fang 神
-> 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D00FF00%26height%3D100%26section%3Dfooter" width="100%">
-</p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/%3Fusername%3Dfang420%26color%3D00FF00%26style%3Dflat-square%26label%3DVISITOR_ID" />
-</p>
-
-### Why it failed earlier:
-
-Your code had links like `src="https://img.shields.io..."`. This usually happens when a browser "Helpful Search" feature tries to turn text into a clickable search link during a copy-paste. I've stripped all that out so the URLs are direct again.
-
-**Would you like me to test these links one more time, or should we add a social media "Contact" section at the bottom?**
-
-<img src="https://github-readme-streak-stats.herokuapp.com%3Fuser%3Dfang420%26theme%3Dchartreuse-dark%26hide_border%3Dtrue%26background%3D0D1117%26ring%3D00FF00%26fire%3D00FF00" width="48%">
-</p>
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language%3Fusername%3Dfang420%26theme%3Dgithub_dark" width="32%">
-<img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/stats%3Fusername%3Dfang420%26theme%3Dgithub_dark" width="32%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time%3Fusername%3Dfang420%26theme%3Dgithub_dark" width="32%">
-</p>
-⚡ ACTIVE_PAYLOAD_DIRECTORIES
-root@fang420:~# tree ./projects/ -L 2
-./projects/
-├── 💀 EXPLOITS
-│   ├── kernel_vector_overflow  # Advanced memory corruption
-│   ├── binder_race_condition   # Android IPC escalation
-│   └── realme_debug_bypass     # Hardware-specific breakout
-├── 🔍 REVERSING
-│   ├── libil2cpp_dissector     # Unity mobile metadata restoration
-│   ├── apk_symbol_map          # Automated deobfuscation
-│   └── syscall_tracer          # Rust-based kernel monitoring
-└── 🏗️ LOW_LEVEL
-    ├── FangOS                  # From scratch bare-metal kernel
-    └── rust_autoclicker        # High-performance event injection
-
-📡 CURRENT_SYSTEM_RESOURCES
-  CPU [████████████████████] 100% (Reverse Engineering)
-  MEM [████████████░░░░░░░░] 60%  (Caffeine Injected)
-  SLP [░░░░░░░░░░░░░░░░░░░░] 0%   (Hunting Bugs)
-
-💬 ENCRYPTED_SIGNATURE
+## 💬 ENCRYPTED_SIGNATURE
 > "The light is a lie. If you want the truth, look at the instructions executed in the dark."
 > — Fang 神
 > 
