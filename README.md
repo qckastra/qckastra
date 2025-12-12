@@ -56,8 +56,8 @@ root@fang420:~# tree ./projects/ -L 2
 │   ├── x64dbg         
 │   └── Frida
 └── 🏗️ Built
-    ├── JohanBot (an open-source Instagram Bot, which is better than MetaAI some aspects and reply just like an normal AI agent.)
-    └── NoMercy (Insanely destructive ransomware, close-source)
+    ├── JohanBot (an open-source Instagram Bot, which is better than MetaAI in some aspects and replies just like an normal AI agent.)
+    └── NoMercy (Insanely destructive ransomware, closed-source)
 ```
 ## 📡 SYSTEM_INFO
 -  CPU [████████████████████] 100% (Reverse Engineering)
