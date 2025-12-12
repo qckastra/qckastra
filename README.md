@@ -33,7 +33,7 @@
 <div align="center">
 <img src="https://img.shields.io/badge/-NeoVim-black?style=flat&logo=neovim" />
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white" />
-<img src="https://img.shields.io/badge/Burp%20Suite-F63?logo=burpsuite&logoColor=fff&style=plastic" />
+<img src="https://img.shields.io/badge/Burp%20Suite-F63?logo=burpsuite&logoColor=fff&style=square" />
 <img src="https://img.shields.io/badge/Kernel_Exploitation-000000%3Fstyle%3Dflat-square%26logo%3Dlinux%26logoColor%3Dwhite" />
 </div>
 
