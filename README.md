@@ -22,29 +22,29 @@
 
 🛠 WEAPONIZED_TOOLKIT
 <div align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Rust-000000%3Fstyle%3Dfor-the-badge%26logo%3Drust%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/ARM64_ASM-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Darm%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Rust-000000%3Fstyle%3Dfor-the-badge%26logo%3Drust%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/C-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/ARM64_ASM-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Darm%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 <br />
 <div align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Ghidra-FFD700%3Fstyle%3Dflat-square%26logo%3Dghidra%26logoColor%3Dblack" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Frida-FFEEFF%3Fstyle%3Dflat-square%26logo%3Dfrida%26logoColor%3DCC0000" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LLDB-white%3Fstyle%3Dflat-square%26logo%3Dllvm%26logoColor%3Dblack" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Android_Security-3DDC84%3Fstyle%3Dflat-square%26logo%3Dandroid%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kernel_Exploitation-000000%3Fstyle%3Dflat-square%26logo%3Dlinux%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Ghidra-FFD700%3Fstyle%3Dflat-square%26logo%3Dghidra%26logoColor%3Dblack" />
+<img src="https://img.shields.io/badge/Frida-FFEEFF%3Fstyle%3Dflat-square%26logo%3Dfrida%26logoColor%3DCC0000" />
+<img src="https://img.shields.io/badge/LLDB-white%3Fstyle%3Dflat-square%26logo%3Dllvm%26logoColor%3Dblack" />
+<img src="https://img.shields.io/badge/Android_Security-3DDC84%3Fstyle%3Dflat-square%26logo%3Dandroid%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Kernel_Exploitation-000000%3Fstyle%3Dflat-square%26logo%3Dlinux%26logoColor%3Dwhite" />
 </div>
 📊 NEURAL_LINK_TELEMETRY
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dfang420%26show_icons%3Dtrue%26theme%3Dchartreuse-dark%26hide_border%3Dtrue%26icon_color%3D00FF00%26title_color%3D00FF00%26text_color%3D00FF00%26bg_color%3D0D1117" width="48%">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com%3Fuser%3Dfang420%26theme%3Dchartreuse-dark%26hide_border%3Dtrue%26background%3D0D1117%26ring%3D00FF00%26fire%3D00FF00" width="48%">
+<img src="https://github-readme-stats.vercel.app/api%3Fusername%3Dfang420%26show_icons%3Dtrue%26theme%3Dchartreuse-dark%26hide_border%3Dtrue%26icon_color%3D00FF00%26title_color%3D00FF00%26text_color%3D00FF00%26bg_color%3D0D1117" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com%3Fuser%3Dfang420%26theme%3Dchartreuse-dark%26hide_border%3Dtrue%26background%3D0D1117%26ring%3D00FF00%26fire%3D00FF00" width="48%">
 </p>
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language%3Fusername%3Dfang420%26theme%3Dgithub_dark" width="32%">
-<img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/stats%3Fusername%3Dfang420%26theme%3Dgithub_dark" width="32%">
-<img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/productive-time%3Fusername%3Dfang420%26theme%3Dgithub_dark" width="32%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language%3Fusername%3Dfang420%26theme%3Dgithub_dark" width="32%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats%3Fusername%3Dfang420%26theme%3Dgithub_dark" width="32%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time%3Fusername%3Dfang420%26theme%3Dgithub_dark" width="32%">
 </p>
 ⚡ ACTIVE_PAYLOAD_DIRECTORIES
 root@fang420:~# tree ./projects/ -L 2
@@ -71,24 +71,24 @@ root@fang420:~# tree ./projects/ -L 2
 > — Fang 神
 > 
 <p align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D00FF00%26height%3D100%26section%3Dfooter" width="100%">
+<img src="https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D00FF00%26height%3D100%26section%3Dfooter" width="100%">
 </p>
 <p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dfang420%26color%3D00FF00%26style%3Dflat-square%26label%3DVISITOR_ID" />
+<img src="https://komarev.com/ghpvc/%3Fusername%3Dfang420%26color%3D00FF00%26style%3Dflat-square%26label%3DVISITOR_ID" />
 </p>
 
 ### Why it failed earlier:
 
-Your code had links like `src="https://www.google.com/search?q=https://img.shields.io..."`. This usually happens when a browser "Helpful Search" feature tries to turn text into a clickable search link during a copy-paste. I've stripped all that out so the URLs are direct again.
+Your code had links like `src="https://img.shields.io..."`. This usually happens when a browser "Helpful Search" feature tries to turn text into a clickable search link during a copy-paste. I've stripped all that out so the URLs are direct again.
 
 **Would you like me to test these links one more time, or should we add a social media "Contact" section at the bottom?**
 
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com%3Fuser%3Dfang420%26theme%3Dchartreuse-dark%26hide_border%3Dtrue%26background%3D0D1117%26ring%3D00FF00%26fire%3D00FF00" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com%3Fuser%3Dfang420%26theme%3Dchartreuse-dark%26hide_border%3Dtrue%26background%3D0D1117%26ring%3D00FF00%26fire%3D00FF00" width="48%">
 </p>
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language%3Fusername%3Dfang420%26theme%3Dgithub_dark" width="32%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language%3Fusername%3Dfang420%26theme%3Dgithub_dark" width="32%">
 <img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/stats%3Fusername%3Dfang420%26theme%3Dgithub_dark" width="32%">
-<img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/productive-time%3Fusername%3Dfang420%26theme%3Dgithub_dark" width="32%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time%3Fusername%3Dfang420%26theme%3Dgithub_dark" width="32%">
 </p>
 ⚡ ACTIVE_PAYLOAD_DIRECTORIES
 root@fang420:~# tree ./projects/ -L 2
@@ -115,8 +115,8 @@ root@fang420:~# tree ./projects/ -L 2
 > — Fang 神
 > 
 <p align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D00FF00%26height%3D100%26section%3Dfooter" width="100%">
+<img src="https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D00FF00%26height%3D100%26section%3Dfooter" width="100%">
 </p>
 <p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dfang420%26color%3D00FF00%26style%3Dflat-square%26label%3DVISITOR_ID" />
+<img src="https://komarev.com/ghpvc/%3Fusername%3Dfang420%26color%3D00FF00%26style%3Dflat-square%26label%3DVISITOR_ID" />
 </p>
