@@ -69,7 +69,7 @@ root@fang420:~# tree ./projects/ -L 2
 > — Fang 神
 > 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=red&height=300&section=header&text=Fang%20神&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=black&height=300&section=header&text=Fang%20神&fontSize=90" />
 </p>
 <p>
 <img src="https://komarev.com/ghpvc/?username=fang420" />
