@@ -23,17 +23,17 @@
 ## 🛠 WEAPONIZED_TOOLKIT
 <div align="center">
 <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite" />
-<img src="https://img.shields.io/badge/ARM64_ASM-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Darm%26logoColor%3Dwhite" />
-<img src="https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
 </div>
 <br />
 <div align="center">
-<img src="https://img.shields.io/badge/Ghidra-FFD700%3Fstyle%3Dflat-square%26logo%3Dghidra%26logoColor%3Dblack" />
-<img src="https://img.shields.io/badge/Frida-FFEEFF%3Fstyle%3Dflat-square%26logo%3Dfrida%26logoColor%3DCC0000" />
-<img src="https://img.shields.io/badge/LLDB-white%3Fstyle%3Dflat-square%26logo%3Dllvm%26logoColor%3Dblack" />
-<img src="https://img.shields.io/badge/Android_Security-3DDC84%3Fstyle%3Dflat-square%26logo%3Dandroid%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/-NeoVim-black?style=flat&logo=neovim" />
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp%20Suite-F63?logo=burpsuite&logoColor=fff&style=plastic" />
 <img src="https://img.shields.io/badge/Kernel_Exploitation-000000%3Fstyle%3Dflat-square%26logo%3Dlinux%26logoColor%3Dwhite" />
 </div>
 
