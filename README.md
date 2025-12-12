@@ -15,10 +15,9 @@
 ## 📂 SYSTEM_MANIFEST.log
 ```zsh
 > USER:         Fang 神 (FANG_神_420)
-> STATUS:       Infiltrating Bitstream
-> LOCATION:     Shadows of the Network
-> CLEARANCE:    LEVEL_RED_OMNIPOTENT
-> ARCHITECTURE: Arch Linux / Neovim / ARM64
+> STATUS:       ERROR 404
+> OS: Arch Linux
+> ARCHITECTURE: x64
 ```
 ## 🛠 WEAPONIZED_TOOLKIT
 <div align="center">
