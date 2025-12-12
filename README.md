@@ -22,7 +22,7 @@
 ```
 ## 🛠 WEAPONIZED_TOOLKIT
 <div align="center">
-<img src="https://img.shields.io/badge/Rust-000000%3Fstyle%3Dfor-the-badge%26logo%3Drust%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite" />
 <img src="https://img.shields.io/badge/ARM64_ASM-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Darm%26logoColor%3Dwhite" />
 <img src="https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
