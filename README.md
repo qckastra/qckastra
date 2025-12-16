@@ -39,13 +39,13 @@
 </div>
 
 ## 💻 GitHub STATS:
-![](https://github-readme-stats.vercel.app/api?username=fang420&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=fang420&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fang420&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=qckastra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=qckastra&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=qckastra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## ⚡ DIRECTORY LISTING
 ```
-root@fang420:~# tree ./projects/ -L 2
+root@qckastra:~# tree ./projects/ -L 2
 ./projects/
 ├── 💀 Exploitation
 │   ├── Metasploit
@@ -66,11 +66,11 @@ root@fang420:~# tree ./projects/ -L 2
 
 ## 💬 ENCRYPTED_SIGN
 > "The light is a lie. If you want the truth, look at the instructions executed in the dark."
-> — Fang 神
+> — QcKastra 神
 > 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=black&height=300&section=header&text=Fang%20神&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=black&height=300&section=header&text=QcKastra%20神&fontSize=90" />
 </p>
 <p>
-<img src="https://komarev.com/ghpvc/?username=fang420" />
+<img src="https://komarev.com/ghpvc/?username=qckastra" />
 </p>
