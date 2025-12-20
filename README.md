@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=INITIATING+CONNECTION...;ACCESS+GRANTED:+QcKastra%20神;SECURITY+RESEARCHER;REVERSE+ENGINEER;MALWARE+ANALYST">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=INITIATING+CONNECTION...;ACCESS+GRANTED:+SOUMESWXR%20神;SECURITY+RESEARCHER;REVERSE+ENGINEER;MALWARE+ANALYST">
 </h1>
 
 <p align="center">
@@ -12,14 +12,14 @@
 
 ---
 
-## 📂 SYSTEM_MANIFEST.log
+## 📂 ABOUT_ME
 ```zsh
-> USER:         Fang 神 (FANG_神_420)
+> USER:         SOUMESWXR 神
 > STATUS:       ERROR 404
 > OS: Arch Linux
 > ARCHITECTURE: x64
 ```
-## 🛠 TOOLS
+## 🧏‍♂️ I MOSTLY USE:
 <div align="center">
 <img src="https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat-square" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat-square" />
@@ -39,38 +39,27 @@
 </div>
 
 ## 💻 GitHub STATS:
-![](https://github-readme-stats.vercel.app/api?username=qckastra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=qckastra&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=qckastra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=soumeswxr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=soumeswxr&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=soumeswxr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## ⚡ DIRECTORY LISTING
+## 🛠️ TOOLS
 ```
-root@qckastra:~# tree ./projects/ -L 2
-./projects/
-├── 💀 Exploitation
-│   ├── Metasploit
-│   ├── Sliver
-│   └── Custom RATs
-├── 🔍 Reverse Engineering / Hooking
-│   ├── Ghidra
-│   ├── x64dbg         
-│   └── Frida
-└── 🏗️ Built
-    ├── JohanBot (an open-source Instagram Bot, which is better than MetaAI in some aspects and replies just like an normal AI agent)
-    └── NoMercy (Insanely destructive ransomware, closed-source)
+root@soumeswxr:~# cat TOOLS
+——————————————————————————————
+└── 💀 Tools
+     ├── AnonChat
+     └── JohanBot
+——————————————————————————————
 ```
-## 📡 SYSTEM_INFO
--  CPU [████████████████████] 100% (Reverse Engineering)
--  MEM [████████████░░░░░░░░] 60%  (Caffeine Injected)
--  SLP [████████████████████] 100%   (Hunting Bugs)
 
-## 💬 ENCRYPTED_SIGN
-> "The light is a lie. If you want the truth, look at the instructions executed in the dark."
-> — QcKastra 神
+## 💬 MESSAGE
+> “Monsters aren't beneath our bed, they are among us.”
+> — SOUMESWXR 神
 > 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=black&height=300&section=header&text=QcKastra%20神&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=black&height=300&section=header&text=SOUMESWXR%20神&fontSize=90" />
 </p>
 <p>
-<img src="https://komarev.com/ghpvc/?username=qckastra" />
+<img src="https://komarev.com/ghpvc/?username=soumeswxr" />
 </p>
